@@ -1,1 +1,3 @@
-# python-app-template
+# python-repo-template
+
+Python repository template.
